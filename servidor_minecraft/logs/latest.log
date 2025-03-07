@@ -203,3 +203,6 @@
 [07Mar2025 22:28:23.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13085, l='ServerLevel[world]', x=-3948.50, y=106.00, z=-7193.69] died, message: 'Villager was slain by Ghost'
 [07Mar2025 22:31:01.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/100.73.164.17:60098] logged in with entity id 21621 at (-3950.699999988079, 94.0, -7248.300000011921)
 [07Mar2025 22:31:01.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[07Mar2025 22:38:10.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> [name:"Sharp V", x:-3895, y:76, z:-7189, dim:minecraft:overworld]
+[07Mar2025 22:39:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 22:40:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Gamerule keepInventory is now set to: false]

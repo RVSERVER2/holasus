@@ -4436,3 +4436,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Mar2025 22:31:01.287] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@63dd72d9 into net.minecraft.network.Connection@4bfc031c
 [07Mar2025 22:31:01.287] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 249 classes
 [07Mar2025 22:31:01.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[07Mar2025 22:35:32.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 22:35:33.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 22:38:10.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> [name:"Sharp V", x:-3895, y:76, z:-7189, dim:minecraft:overworld]
+[07Mar2025 22:39:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 22:40:32.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 22:40:33.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 22:40:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Gamerule keepInventory is now set to: false]
