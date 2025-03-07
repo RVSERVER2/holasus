@@ -267,3 +267,15 @@
 [07Mar2025 23:31:40.814] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [07Mar2025 23:31:52.121] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
 [07Mar2025 23:31:52.121] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[07Mar2025 23:32:37.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny moved too quickly! 8.440449541435783,0.42355929454303975,5.500140215941428
+[07Mar2025 23:33:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 23:33:32.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[07Mar2025 23:33:32.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 23:33:45.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:62967] logged in with entity id 48147 at (-1452.0678156407378, 63.09375, -8868.939179823825)
+[07Mar2025 23:33:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 23:36:48.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 23:37:32.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Take Aim]
+[07Mar2025 23:37:39.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has completed the challenge [The Magicians]
+[07Mar2025 23:37:39.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Rumak the Dark'/47122, l='ServerLevel[world]', x=-1444.30, y=75.06, z=-8856.30] died: Rumak the Dark was shot by HestorJC
+[07Mar2025 23:41:13.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Disconnected
+[07Mar2025 23:41:13.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
