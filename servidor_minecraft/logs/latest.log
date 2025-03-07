@@ -206,3 +206,7 @@
 [07Mar2025 22:38:10.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> [name:"Sharp V", x:-3895, y:76, z:-7189, dim:minecraft:overworld]
 [07Mar2025 22:39:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
 [07Mar2025 22:40:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Gamerule keepInventory is now set to: false]
+[07Mar2025 22:43:52.546] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[07Mar2025 22:43:52.590] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[07Mar2025 22:43:52.659] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[07Mar2025 22:44:10.799] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
