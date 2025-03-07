@@ -189,3 +189,10 @@
 [07Mar2025 21:39:22.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
 [07Mar2025 21:40:00.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
 [07Mar2025 21:40:00.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 21:41:50.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:57063] logged in with entity id 12384 at (-3996.141821001964, 73.0, -7361.562312313057)
+[07Mar2025 21:41:50.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 21:42:03.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 21:42:24.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 21:43:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> [name:"Mending y Effi", x:-3973, y:109, z:-7192, dim:minecraft:overworld]
+[07Mar2025 21:45:05.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 21:48:23.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [What a Deal!]
