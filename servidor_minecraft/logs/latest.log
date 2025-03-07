@@ -160,3 +160,32 @@
 [07Mar2025 21:12:50.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Dragonslayer]
 [07Mar2025 21:16:38.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
 [07Mar2025 21:19:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 21:26:00.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Gamerule keepInventory is now set to: true]
+[07Mar2025 21:26:36.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny was killed
+[07Mar2025 21:26:36.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Killed theJoJonny]
+[07Mar2025 21:27:12.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 21:28:15.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Disconnected
+[07Mar2025 21:28:15.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 21:28:22.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:50072] logged in with entity id 8036 at (-3952.614552613825, 94.875, -7245.231077935474)
+[07Mar2025 21:28:22.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 21:31:22.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [What a Deal!]
+[07Mar2025 21:31:41.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 21:36:23.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[07Mar2025 21:36:23.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 21:36:35.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:50630] logged in with entity id 10670 at (-3996.141821001964, 73.0, -7361.562312313057)
+[07Mar2025 21:36:35.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 21:37:11.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[07Mar2025 21:37:11.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 21:37:21.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:50676] logged in with entity id 10977 at (-3996.141821001964, 73.0, -7361.562312313057)
+[07Mar2025 21:37:21.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 21:37:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> [name:"Mending y Effi", x:-3973, y:109, z:-7192, dim:minecraft:overworld]
+[07Mar2025 21:37:57.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[07Mar2025 21:37:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 21:38:19.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:50840] logged in with entity id 11500 at (-3996.141821001964, 73.0, -7361.562312313057)
+[07Mar2025 21:38:19.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 21:38:57.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[07Mar2025 21:38:57.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[07Mar2025 21:39:22.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:56775] logged in with entity id 11869 at (-3996.141821001964, 73.0, -7361.562312313057)
+[07Mar2025 21:39:22.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[07Mar2025 21:40:00.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[07Mar2025 21:40:00.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
