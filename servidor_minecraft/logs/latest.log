@@ -196,3 +196,5 @@
 [07Mar2025 21:43:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> [name:"Mending y Effi", x:-3973, y:109, z:-7192, dim:minecraft:overworld]
 [07Mar2025 21:45:05.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
 [07Mar2025 21:48:23.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [What a Deal!]
+[07Mar2025 22:07:30.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[07Mar2025 22:07:30.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
