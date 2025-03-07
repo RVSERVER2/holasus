@@ -227,3 +227,43 @@
 [07Mar2025 22:58:22.878] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [07Mar2025 22:59:14.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
 [07Mar2025 23:01:10.325] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[07Mar2025 23:04:00.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 23:04:39.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 23:05:18.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 23:06:52.574] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[07Mar2025 23:06:55.169] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[07Mar2025 23:09:57.257] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07Mar2025 23:10:48.947] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Mar2025 23:11:39.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 23:12:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 23:12:25.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 23:13:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Dragonslayer]
+[07Mar2025 23:16:42.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny moved too quickly! 1.3264051851488148,1.2468000194787976,9.865050196498487
+[07Mar2025 23:17:31.254] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Mar2025 23:18:04.461] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07Mar2025 23:18:31.357] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[07Mar2025 23:18:31.716] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[07Mar2025 23:18:31.716] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[07Mar2025 23:18:31.716] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[07Mar2025 23:18:31.717] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[07Mar2025 23:19:04.015] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Mar2025 23:20:01.357] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[07Mar2025 23:20:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [The Cutest Predator]
+[07Mar2025 23:20:22.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[07Mar2025 23:20:32.249] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[07Mar2025 23:20:32.250] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[07Mar2025 23:20:32.250] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[07Mar2025 23:20:34.511] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[07Mar2025 23:20:34.512] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[07Mar2025 23:20:37.366] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Mar2025 23:22:33.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 23:24:38.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SnowGolem['Jack the Cold'/43316, l='ServerLevel[world]', x=-2251.90, y=81.44, z=-8979.36] died: Jack the Cold was slain by HestorJC
+[07Mar2025 23:30:07.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[07Mar2025 23:30:53.401] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07Mar2025 23:30:53.401] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07Mar2025 23:30:53.401] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07Mar2025 23:30:53.401] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07Mar2025 23:30:53.402] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[07Mar2025 23:31:40.814] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07Mar2025 23:31:52.121] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[07Mar2025 23:31:52.121] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}

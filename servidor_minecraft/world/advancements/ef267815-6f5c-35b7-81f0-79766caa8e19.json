@@ -42,6 +42,7 @@
       "minecraft:beach": "2025-03-07 08:47:13 +0000",
       "minecraft:river": "2025-03-07 07:27:44 +0000",
       "minecraft:snowy_plains": "2025-03-07 07:52:19 +0000",
+      "minecraft:stony_shore": "2025-03-07 23:09:39 +0000",
       "minecraft:dripstone_caves": "2025-03-07 07:38:20 +0000",
       "minecraft:snowy_taiga": "2025-03-07 07:53:02 +0000",
       "minecraft:grove": "2025-03-07 07:49:22 +0000",
@@ -1868,6 +1869,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-07 23:13:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-03-07 22:48:52 +0000"
@@ -1877,6 +1884,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-07 22:48:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-03-07 23:13:44 +0000"
     },
     "done": true
   },
@@ -1952,6 +1965,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/warped_banister": {
+    "criteria": {
+      "has_item": "2025-03-07 23:25:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-07 21:58:04 +0000"
@@ -1979,6 +1998,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-07 21:57:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-03-07 23:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-07 23:09:59 +0000"
     },
     "done": true
   },
@@ -2066,6 +2097,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-03-07 23:00:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-07 22:48:52 +0000"
@@ -2087,6 +2124,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-07 21:58:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-03-07 23:20:46 +0000"
     },
     "done": true
   },
@@ -2162,6 +2205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-03-07 23:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-07 21:59:16 +0000"
@@ -2171,6 +2220,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-07 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-03-07 23:13:44 +0000"
     },
     "done": true
   },
@@ -2234,9 +2289,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-03-07 23:00:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-03-07 23:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-07 21:57:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-07 23:05:31 +0000"
     },
     "done": true
   },
