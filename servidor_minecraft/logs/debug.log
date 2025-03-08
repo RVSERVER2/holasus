@@ -6756,3 +6756,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Mar2025 00:10:31.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
 [08Mar2025 00:10:32.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Mar2025 00:10:32.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:15:32.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:15:32.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:20:32.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:20:32.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
