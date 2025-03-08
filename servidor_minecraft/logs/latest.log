@@ -146,3 +146,55 @@
 [08Mar2025 07:50:27.410] [Worker-Main-9/INFO] [ModernFix/]: Instantiating Mojang DFU
 [08Mar2025 07:57:47.162] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [08Mar2025 07:58:03.824] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Mar2025 07:59:52.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Best Friends Forever]
+[08Mar2025 07:59:52.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Jungle Fliers]
+[08Mar2025 07:59:58.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.7622828391684817
+[08Mar2025 07:59:59.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.7530387280150561
+[08Mar2025 08:00:00.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.7907440586193692
+[08Mar2025 08:00:00.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.7907440586193692
+[08Mar2025 08:00:01.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC was kicked for floating a vehicle too long!
+[08Mar2025 08:00:01.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Flying is not enabled on this server
+[08Mar2025 08:00:01.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[08Mar2025 08:00:01.208] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Mar2025 08:02:56.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/100.73.164.17:60658] logged in with entity id 17977 at (-3568.3399432680944, 133.1275939562154, -10602.130229232946)
+[08Mar2025 08:02:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[08Mar2025 08:02:56.465] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityAmphithere['Amphithere'/17978, l='ServerLevel[world]', x=-3568.34, y=132.42, z=-10602.13] as it would cause deadlock
+[08Mar2025 08:03:08.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC was kicked for floating a vehicle too long!
+[08Mar2025 08:03:08.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Flying is not enabled on this server
+[08Mar2025 08:03:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[08Mar2025 08:03:14.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/100.73.164.17:60666] logged in with entity id 18345 at (-3580.3724569709093, 106.12387208027991, -10586.25455992993)
+[08Mar2025 08:03:14.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[08Mar2025 08:03:14.155] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityAmphithere['Amphithere'/18346, l='ServerLevel[world]', x=-3580.37, y=105.08, z=-10586.25] as it would cause deadlock
+[08Mar2025 08:03:14.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[08Mar2025 08:03:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[08Mar2025 08:03:14.286] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Mar2025 08:03:17.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/100.73.164.17:60667] logged in with entity id 18383 at (-3580.3724569709093, 106.12387208027991, -10586.25455992993)
+[08Mar2025 08:03:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[08Mar2025 08:03:17.443] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityAmphithere['Amphithere'/18384, l='ServerLevel[world]', x=-3580.37, y=105.08, z=-10586.25] as it would cause deadlock
+[08Mar2025 08:03:39.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.36762607569808115
+[08Mar2025 08:03:39.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.36762607569808115
+[08Mar2025 08:03:40.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.4394834567683963
+[08Mar2025 08:03:41.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of HestorJC) moved wrongly! 0.6437760087495362
+[08Mar2025 08:03:42.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -0.3516311624593982,-10.528748658719763,-1.7367058808158617
+[08Mar2025 08:05:44.412] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Mar2025 08:05:44.412] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Mar2025 08:06:10.124] [Worker-Main-57/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[08Mar2025 08:10:02.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/19930, l='ServerLevel[world]', x=-3649.30, y=77.00, z=-10961.70] died: Ewart the Cold was slain by HestorJC
+[08Mar2025 08:22:19.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3567, y=-45, z=-11410} BlockPos{x=-3566, y=-46, z=-11408}
+[08Mar2025 08:22:34.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3560, y=-43, z=-11418} BlockPos{x=-3562, y=-43, z=-11417}
+[08Mar2025 08:22:34.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3560, y=-43, z=-11418} BlockPos{x=-3562, y=-43, z=-11417}
+[08Mar2025 08:22:37.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3563, y=-43, z=-11418} BlockPos{x=-3563, y=-44, z=-11417}
+[08Mar2025 08:22:37.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3563, y=-43, z=-11418} BlockPos{x=-3563, y=-43, z=-11420}
+[08Mar2025 08:23:38.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3564, y=-45, z=-11406} BlockPos{x=-3562, y=-43, z=-11406}
+[08Mar2025 08:24:04.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3561, y=-45, z=-11400} BlockPos{x=-3562, y=-47, z=-11400}
+[08Mar2025 08:26:23.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -0.21859181275567607,5.440652371893023,-11.95084916498854
+[08Mar2025 08:27:12.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [The Desert Swimmers]
+[08Mar2025 08:28:49.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [No Step on Snake]
+[08Mar2025 08:31:31.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -9.08435402062969,1.4529085213065898,-6.255913453906032
+[08Mar2025 08:31:43.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -6.51412586273409,-5.915564797380739,-5.06456015870026
+[08Mar2025 08:32:16.795] [Worker-Main-66/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Mar2025 08:36:31.022] [Worker-Main-57/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Mar2025 08:36:42.279] [Worker-Main-57/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Mar2025 08:36:42.280] [Worker-Main-57/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Mar2025 08:38:41.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -0.3220371392508241,0.8658728260594017,-13.559229252559817
+[08Mar2025 08:38:44.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -0.6506055289137294,6.49763277609118,-11.362441166886128

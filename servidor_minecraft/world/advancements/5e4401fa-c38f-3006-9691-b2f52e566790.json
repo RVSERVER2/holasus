@@ -39,10 +39,14 @@
       "minecraft:sunflower_plains": "2025-03-07 07:40:09 +0000",
       "minecraft:birch_forest": "2025-03-07 07:35:34 +0000",
       "minecraft:windswept_hills": "2025-03-07 23:31:35 +0000",
+      "minecraft:bamboo_jungle": "2025-03-08 08:19:26 +0000",
+      "minecraft:wooded_badlands": "2025-03-08 08:19:42 +0000",
       "minecraft:badlands": "2025-03-07 07:07:02 +0000",
       "minecraft:beach": "2025-03-07 08:47:12 +0000",
+      "minecraft:dark_forest": "2025-03-08 08:35:29 +0000",
       "minecraft:sparse_jungle": "2025-03-08 07:50:53 +0000",
       "minecraft:river": "2025-03-07 07:06:40 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-08 08:31:39 +0000",
       "minecraft:snowy_plains": "2025-03-07 07:57:45 +0000",
       "minecraft:stony_shore": "2025-03-07 08:42:00 +0000",
       "minecraft:dripstone_caves": "2025-03-07 07:38:47 +0000",
@@ -60,6 +64,8 @@
       "minecraft:jungle": "2025-03-07 07:33:36 +0000",
       "minecraft:ocean": "2025-03-07 22:54:43 +0000",
       "minecraft:snowy_beach": "2025-03-07 08:15:29 +0000",
+      "minecraft:warm_ocean": "2025-03-08 08:27:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-08 08:31:42 +0000",
       "minecraft:flower_forest": "2025-03-07 07:44:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-07 07:35:51 +0000",
       "minecraft:deep_dark": "2025-03-08 07:43:21 +0000",
@@ -679,6 +685,7 @@
       "minecraft:husk": "2025-03-07 07:19:48 +0000",
       "minecraft:cave_spider": "2025-03-07 07:25:38 +0000",
       "minecraft:stray": "2025-03-07 08:21:34 +0000",
+      "minecraft:enderman": "2025-03-08 08:15:00 +0000",
       "minecraft:vex": "2025-03-07 09:25:08 +0000",
       "minecraft:zombie": "2025-03-07 07:44:24 +0000",
       "minecraft:drowned": "2025-03-07 07:18:40 +0000"
@@ -2463,90 +2470,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_slab": {
-    "criteria": {
-      "has_item": "2025-03-08 07:18:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-03-08 07:33:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-03-08 07:53:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
-    "criteria": {
-      "has_item": "2025-03-08 07:18:48 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-03-08 07:17:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-03-08 07:33:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-03-08 07:33:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_face": {
-    "criteria": {
-      "has_item": "2025-03-08 07:18:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-03-08 07:14:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-08 07:53:50 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-03-08 07:17:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-03-08 07:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2025-03-08 07:13:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-08 07:26:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-08 07:11:36 +0000"
@@ -2559,51 +2482,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_item": "2025-03-08 07:53:50 +0000"
+      "has_raw_copper": "2025-03-08 07:11:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_mutton": "2025-03-08 07:33:34 +0000"
+      "has_the_recipe": "2025-03-08 07:13:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_item": "2025-03-08 07:53:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2025-03-08 07:21:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-03-08 07:33:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
-    "criteria": {
-      "has_item": "2025-03-08 07:18:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-03-08 07:33:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-03-08 07:53:50 +0000"
+      "has_furnace": "2025-03-08 07:14:41 +0000"
     },
     "done": true
   },
@@ -2613,15 +2506,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_white_wool": "2025-03-08 07:33:35 +0000"
+      "has_gold_backpack": "2025-03-08 07:17:04 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_torch": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_item": "2025-03-08 07:21:08 +0000"
+      "has_diamond_backpack": "2025-03-08 07:17:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-03-08 07:18:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-03-08 07:18:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-03-08 07:18:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-03-08 07:18:48 +0000"
     },
     "done": true
   },
@@ -2631,9 +2548,195 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
-      "has_raw_copper": "2025-03-08 07:11:36 +0000"
+      "has_item": "2025-03-08 07:21:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-03-08 07:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-08 07:26:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 07:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-08 07:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-08 07:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-08 07:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-08 07:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-08 07:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-08 07:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-08 07:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-08 07:59:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2025-03-08 07:59:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-03-08 08:28:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-08 08:27:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-03-08 08:04:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-03-08 08:19:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-03-08 08:04:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-03-08 08:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 08:27:13 +0000"
     },
     "done": true
   },
