@@ -198,3 +198,12 @@
 [08Mar2025 08:36:42.280] [Worker-Main-57/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [08Mar2025 08:38:41.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -0.3220371392508241,0.8658728260594017,-13.559229252559817
 [08Mar2025 08:38:44.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -0.6506055289137294,6.49763277609118,-11.362441166886128
+[08Mar2025 08:45:07.736] [Worker-Main-66/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Mar2025 08:45:07.737] [Worker-Main-66/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Mar2025 08:45:07.737] [Worker-Main-66/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Mar2025 08:45:07.737] [Worker-Main-66/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Mar2025 08:45:07.737] [Worker-Main-66/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Mar2025 08:45:22.021] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[08Mar2025 08:45:32.614] [Worker-Main-57/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Mar2025 08:49:23.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[08Mar2025 08:49:23.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
