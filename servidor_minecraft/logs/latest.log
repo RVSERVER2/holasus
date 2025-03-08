@@ -134,3 +134,5 @@
 [08Mar2025 07:02:19.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/100.73.164.17:60231] logged in with entity id 61 at (-3952.1432698583753, 94.0, -7246.092651667702)
 [08Mar2025 07:02:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
 [08Mar2025 07:07:57.064] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/165, l='ServerLevel[world]', x=-3946.47, y=106.23, z=-7167.70] died, message: 'Fisherman was slain by Vindicator'
+[08Mar2025 07:26:03.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Gave 1 [Bucket] to HestorJC]
+[08Mar2025 07:26:17.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Hot Stuff]
