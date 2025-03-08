@@ -137,3 +137,12 @@
 [08Mar2025 07:26:03.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Gave 1 [Bucket] to HestorJC]
 [08Mar2025 07:26:17.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Hot Stuff]
 [08Mar2025 07:33:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [My Name is Nobody]
+[08Mar2025 07:45:38.862] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Mar2025 07:45:38.863] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Mar2025 07:46:39.520] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[08Mar2025 07:46:42.925] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Mar2025 07:48:14.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -4.774114694816944,-1.044812420399012,-8.896714475185945
+[08Mar2025 07:50:10.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! 1.3149020398618632,4.274138321639839,-9.307762314147112
+[08Mar2025 07:50:27.410] [Worker-Main-9/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08Mar2025 07:57:47.162] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Mar2025 07:58:03.824] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin

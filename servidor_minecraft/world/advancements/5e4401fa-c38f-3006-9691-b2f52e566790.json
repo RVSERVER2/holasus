@@ -41,6 +41,7 @@
       "minecraft:windswept_hills": "2025-03-07 23:31:35 +0000",
       "minecraft:badlands": "2025-03-07 07:07:02 +0000",
       "minecraft:beach": "2025-03-07 08:47:12 +0000",
+      "minecraft:sparse_jungle": "2025-03-08 07:50:53 +0000",
       "minecraft:river": "2025-03-07 07:06:40 +0000",
       "minecraft:snowy_plains": "2025-03-07 07:57:45 +0000",
       "minecraft:stony_shore": "2025-03-07 08:42:00 +0000",
@@ -61,6 +62,7 @@
       "minecraft:snowy_beach": "2025-03-07 08:15:29 +0000",
       "minecraft:flower_forest": "2025-03-07 07:44:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-07 07:35:51 +0000",
+      "minecraft:deep_dark": "2025-03-08 07:43:21 +0000",
       "minecraft:meadow": "2025-03-07 07:45:09 +0000",
       "minecraft:savanna": "2025-03-07 07:27:49 +0000",
       "minecraft:plains": "2025-03-07 07:37:52 +0000"
@@ -2473,6 +2475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2025-03-08 07:18:48 +0000"
@@ -2506,6 +2514,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-03-08 07:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
     },
     "done": true
   },
@@ -2545,9 +2559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-03-08 07:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
     },
     "done": true
   },
@@ -2572,6 +2598,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-03-08 07:33:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-03-08 07:53:50 +0000"
     },
     "done": true
   },
