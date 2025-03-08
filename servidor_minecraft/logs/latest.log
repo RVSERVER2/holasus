@@ -1,1 +1,7 @@
 [08Mar2025 00:01:07.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Gave 1 [Grindstone] to HestorJC]
+[08Mar2025 00:08:20.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/100.81.60.31:64860] logged in with entity id 60111 at (-3925.5, 103.0, -7163.5)
+[08Mar2025 00:08:20.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[08Mar2025 00:09:21.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[08Mar2025 00:09:21.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[08Mar2025 00:10:31.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[08Mar2025 00:10:31.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
